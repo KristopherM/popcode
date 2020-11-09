@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
+        <title>The Goat</title>
+    </head>
+    <body>
+        `<h1 class="headings">Tom Brady</h1>
+        <p>aka The Goat</p>
+        <p>Grade: Graduated</p>
+        <p> Current NFL player</p>
+        <h1 class="headings">Favorite Activities To Do</h1>
+        <ul>
+            <li>Practice</li>
+            <li>play football</li>
+            <li>hangout with his friends</li>
+        </ul>
+        <p>https://www.nfl.com/buccaneers/</p>
+       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Tom_Brady_2019.jpg/440px-Tom_Brady_2019.jpg">
+    </body>
+
+</html>
